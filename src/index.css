@@ -342,6 +342,7 @@ h6 {
     position: absolute;
     top: 0;
     width: 120%;
+    background: none;
   }
   .hero-image-small-1 {
     position: absolute;
